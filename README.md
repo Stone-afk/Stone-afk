@@ -4,8 +4,10 @@
 - 🤔 Still a novice for now, but aiming to become proficient in the future.
 - 😄 Eager to contribute to the open-source community and create impactful projects in the fields of microservices, cloud-native, and artificial intelligence.
 - 📫 How to reach me: hz1711865140@gmail.com
-- 
+
 ![info](https://github-readme-stats.vercel.app/api?username=Stone-afk&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stone-afk&theme=default_repocard"/>
 
 <!--
 **MysticalGuest/mysticalguest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
