@@ -7,8 +7,6 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=Stone-afk&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stone-afk&theme=default_repocard"/>
-
 <!--
 **MysticalGuest/mysticalguest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
